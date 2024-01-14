@@ -29,7 +29,6 @@ func _process(delta):
 
 
 
-
 #this adds the ability to the esc key to quit the game
 func _unhandled_input(event):
 	if event is InputEventKey:
